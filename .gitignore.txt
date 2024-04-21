@@ -1,0 +1,5 @@
+/text.txt
+/DesignPattern/bin
+/DesignPattern/obj
+/SingleFactoryPattern/bin
+/SingleFactoryPattern/obj

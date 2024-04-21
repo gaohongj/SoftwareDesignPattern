@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hv8D6qVsm47ElctAMf99jybo0KIKG5pb5yjSnmtFT1Zdcix8qdO7W3ldloYK5cqxkNbaqzgDBRCwQA7QOJJEpg==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Code\\GitCode\\SoftwareDesignPattern\\NvwaCreatePerson\\NvwaCreatePerson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
