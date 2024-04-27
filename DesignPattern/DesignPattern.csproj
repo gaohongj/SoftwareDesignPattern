@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj" />
     <ProjectReference Include="..\FactoryPattern\FactoryPattern.csproj" />
     <ProjectReference Include="..\NvwaCreatePerson\NvwaCreatePerson.csproj" />
     <ProjectReference Include="..\SingleFactoryPattern\SingleFactoryPattern.csproj" />
