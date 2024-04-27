@@ -1,0 +1,13 @@
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\bin\Debug\net6.0\NvwaCreatePerson.deps.json
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\bin\Debug\net6.0\NvwaCreatePerson.dll
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\bin\Debug\net6.0\NvwaCreatePerson.pdb
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.AssemblyInfoInputs.cache
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.AssemblyInfo.cs
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.csproj.CoreCompileInputs.cache
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.sourcelink.json
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.dll
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\refint\NvwaCreatePerson.dll
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.pdb
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\ref\NvwaCreatePerson.dll
+D:\Study\Code\GitCode\SoftwareDesignPattern\NvwaCreatePerson\obj\Debug\net6.0\NvwaCreatePerson.csproj.AssemblyReference.cache
